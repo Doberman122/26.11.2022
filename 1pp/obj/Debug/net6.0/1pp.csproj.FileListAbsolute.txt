@@ -1,0 +1,15 @@
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\bin\Debug\net6.0\1pp.exe
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\bin\Debug\net6.0\1pp.deps.json
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\bin\Debug\net6.0\1pp.runtimeconfig.json
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\bin\Debug\net6.0\1pp.dll
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\bin\Debug\net6.0\1pp.pdb
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\1pp.csproj.AssemblyReference.cache
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\1pp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\1pp.AssemblyInfoInputs.cache
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\1pp.AssemblyInfo.cs
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\1pp.csproj.CoreCompileInputs.cache
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\1pp.dll
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\refint\1pp.dll
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\1pp.pdb
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\1pp.genruntimeconfig.cache
+C:\Users\rysla\OneDrive\Рабочий стол\1pp\1pp\obj\Debug\net6.0\ref\1pp.dll
